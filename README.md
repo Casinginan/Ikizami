@@ -42,7 +42,7 @@ I'm a final-year BSIT student who treats every project like a level to clear —
 
 `LEARN → BUILD → BREAK → UNDERSTAND → IMPROVE → REPEAT`
 
-<img src="assets/animations/divider-run.svg" width="100%" alt="" />
+<img src="assets/divider-run.svg" width="100%" alt="" />
 
 ## World 1-2 — Tech Stack
 
@@ -80,7 +80,7 @@ I'm a final-year BSIT student who treats every project like a level to clear —
 
 </td><td valign="top" width="50%">
 
-**🪙 Coin Blocks — Data / Backend**
+<img src="assets/coin.svg" width="18" valign="middle" alt="" /> **Coin Blocks — Data / Backend**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00A800?style=flat-square&logo=postgresql&logoColor=FFF)
 ![Redis](https://img.shields.io/badge/Redis-00A800?style=flat-square&logo=redis&logoColor=FFF)
@@ -89,7 +89,7 @@ I'm a final-year BSIT student who treats every project like a level to clear —
 ![Firebase](https://img.shields.io/badge/Firebase-00A800?style=flat-square&logo=firebase&logoColor=FFF)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-00A800?style=flat-square&logoColor=FFF)
 
-**❓ Question Blocks — Tools & Infra**
+<img src="assets/question-block.svg" width="20" valign="middle" alt="" /> **Question Blocks — Tools & Infra**
 
 ![Git](https://img.shields.io/badge/Git-7A4A00?style=flat-square&logo=git&logoColor=FCE83C)
 ![Docker](https://img.shields.io/badge/Docker-7A4A00?style=flat-square&logo=docker&logoColor=FCE83C)
@@ -108,7 +108,7 @@ DataCamp Data Scientist Associate · DataCamp Associate AI Engineer · Cisco Int
 </td></tr>
 </table>
 
-<img src="assets/animations/skills-jump.svg" width="100%" alt="" />
+<img src="assets/skills-jump.svg" width="100%" alt="" />
 
 ## World 1-3 — Project Lab
 
@@ -129,12 +129,10 @@ Real-time PPE compliance and fall/immobility detection system built for QCU. YOL
 
 </td><td width="30%" valign="top">
 
-🧱🧱🧱🧱🧱<br/>
-🧱❓🧱❓🧱<br/>
-🧱🧱🚩🧱🧱
+<img src="assets/level-badge.svg" width="100" alt="Level cleared" />
 
 </td></tr>
-<tr><td colspan="2"><img src="assets/animations/pipe-divider.svg" width="100%" alt="" /></td></tr>
+<tr><td colspan="2"><img src="assets/pipe-divider.svg" width="100%" alt="" /></td></tr>
 <tr><td width="70%" valign="top">
 
 **🏰 LEVEL 2 — EPIRMP** <sub>Enterprise Project Intelligence & Risk Management Platform</sub>
@@ -149,12 +147,10 @@ A multi-phase FastAPI backend for project risk intelligence: core CRUD API, an E
 
 </td><td width="30%" valign="top">
 
-🧱🧱🧱🧱🧱<br/>
-🧱❓🧱❓🧱<br/>
-🧱🧱🚩🧱🧱
+<img src="assets/level-badge.svg" width="100" alt="Level cleared" />
 
 </td></tr>
-<tr><td colspan="2"><img src="assets/animations/pipe-divider.svg" width="100%" alt="" /></td></tr>
+<tr><td colspan="2"><img src="assets/pipe-divider.svg" width="100%" alt="" /></td></tr>
 <tr><td width="70%" valign="top">
 
 **🏰 LEVEL 3 — CPIS** <sub>Cognitive Performance Intelligence System</sub>
@@ -169,12 +165,10 @@ Estimates a cognitive-performance proxy score from sleep, stress, and lifestyle 
 
 </td><td width="30%" valign="top">
 
-🧱🧱🧱🧱🧱<br/>
-🧱❓🧱❓🧱<br/>
-🧱🧱🚩🧱🧱
+<img src="assets/level-badge.svg" width="100" alt="Level cleared" />
 
 </td></tr>
-<tr><td colspan="2"><img src="assets/animations/pipe-divider.svg" width="100%" alt="" /></td></tr>
+<tr><td colspan="2"><img src="assets/pipe-divider.svg" width="100%" alt="" /></td></tr>
 <tr><td width="70%" valign="top">
 
 **🏰 LEVEL 4 — PulseSense** <sub>GCash ImaGnation Innovation Challenge</sub>
@@ -189,12 +183,10 @@ A decision-support feature for Filipino MSMEs, built for the GCash hackathon. Sh
 
 </td><td width="30%" valign="top">
 
-🧱🧱🧱🧱🧱<br/>
-🧱❓🧱❓🧱<br/>
-🧱🧱🚩🧱🧱
+<img src="assets/level-badge.svg" width="100" alt="Level cleared" />
 
 </td></tr>
-<tr><td colspan="2"><img src="assets/animations/pipe-divider.svg" width="100%" alt="" /></td></tr>
+<tr><td colspan="2"><img src="assets/pipe-divider.svg" width="100%" alt="" /></td></tr>
 <tr><td width="70%" valign="top">
 
 **🏰 LEVEL 5 — SLTT** <sub>Sign Language to Text</sub>
@@ -209,9 +201,7 @@ Desktop app that translates ASL fingerspelling to text in real time. MediaPipe h
 
 </td><td width="30%" valign="top">
 
-🧱🧱🧱🧱🧱<br/>
-🧱❓🧱❓🧱<br/>
-🧱🧱🚩🧱🧱
+<img src="assets/level-badge.svg" width="100" alt="Level cleared" />
 
 </td></tr>
 </table>
@@ -254,7 +244,7 @@ EXPLORING   3D web experiences, applied security
 🎓 GRADUATE — BSIT, QCU, 2027      [████████████████░░░░]  ON TRACK
 ```
 
-<img src="assets/animations/finish-flag.svg" width="100%" alt="" />
+<img src="assets/finish-flag.svg" width="100%" alt="" />
 
 ## Finish
 
